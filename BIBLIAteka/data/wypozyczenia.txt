@@ -1,0 +1,6 @@
+1,Potop,Henryk Sienkiewicz
+1,Quo Vadis,Henryk Sienkiewicz
+1,Zbrodnia i kara,Fiodor Dostojewski
+2,Mistrz i Małgorzata,Michaił Bułhakow
+2,Lalka,Bolesław Prus
+3,Pan Tadeusz,Adam Mickiewicz
